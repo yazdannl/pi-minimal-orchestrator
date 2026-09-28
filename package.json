@@ -1,0 +1,9 @@
+{
+  "name": "pi-minimal-orchestrator",
+  "version": "1.0.0",
+  "description": "Minimal token-efficient orchestrator skill that delegates work to available subagents.",
+  "keywords": ["pi-package"],
+  "pi": {
+    "skills": ["./skills"]
+  }
+}
