@@ -20,4 +20,4 @@ To install in the current project's settings instead, add `-l` to `pi install`; 
 
 ## Use
 
-Use `/skill:orchestrator` or ask the agent to orchestrate or delegate work. The skill requires an available subagent mechanism, such as Paseo MCP or a subagent tool; if none is available, it works directly.
+Use `/skill:orchestrator` or ask the agent to orchestrate or delegate work. The skill requires an available subagent mechanism, provided by the environment (tool, MCP server, or CLI); if none is available, it works directly.
